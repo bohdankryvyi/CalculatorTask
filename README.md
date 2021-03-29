@@ -8,5 +8,4 @@ Notes about app:
 6. Classes are refactored to be static and  not to create so many objects
 7. Log4j2 is added to log all values that are out of the border [-20;20]
 
-NOTE: Gitignore is not added for some my own configuration purposes
-
+NOTE: Gitignore is not added for some my own configuration purposes, to show logs and to show how data is saved to the file
