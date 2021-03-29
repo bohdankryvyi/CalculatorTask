@@ -7,5 +7,6 @@ Notes about app:
 5. Classes are split into 3 packages ( calculationMethods, view , writing results) based on OOP and Java patterns
 6. Classes are refactored to be static and  not to create so many objects
 7. Log4j2 is added to log all values that are out of the border [-20;20]
-8. Added unit tests for calculation methods
+
+NOTE: Gitignore is not added for some my own configuration purposes
 
