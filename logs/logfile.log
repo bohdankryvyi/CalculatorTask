@@ -1,0 +1,3 @@
+2021-03-14 14:00:44,605 [main] INFO  view.MyView - First value out of the borders: 456789.0
+2021-03-29 13:23:09,917 [main] INFO  view.MyView - First value out of the borders: -567.0
+2021-03-29 13:23:11,930 [main] INFO  view.MyView - First value out of the borders: -5678.0

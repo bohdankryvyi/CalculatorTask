@@ -1,0 +1,2 @@
+Your Result is : 19683.0
+Calculation time is  2021-03-29 at 13:30:42 EEST
